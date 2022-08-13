@@ -6,4 +6,4 @@ O objetivo desse projeto foi criar uma lista de tarefas, na qual é possível ad
 ### Demosntração do Projeto:
 <img src='img/demo.png' alt='demo do projeto'></img>;
 
-### Link para acessar o projeto: https://jeancarlos-sc.github.io/projetos/to-do-list/" target="_blank
+### Link para acessar o projeto: https://jeancarlos-sc.github.io/projetos/to-do-list/
